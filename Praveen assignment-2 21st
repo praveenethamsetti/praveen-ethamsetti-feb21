@@ -1,0 +1,13 @@
+N=int(input(‘enter a number:’))
+
+For I in range(1,n+1):➔for rows
+
+For k in range(1,n-i+1):➔for spaces
+
+Print(“ “,end=” “)
+
+For j in range(1,i+1):➔for columns
+
+Print(‘*’,end=” “)
+
+Print(“\n”)
